@@ -1,3 +1,4 @@
 node_modules/
 # wireshark network captures
 *.pcapng
+/.wrangler
