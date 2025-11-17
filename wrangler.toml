@@ -1,4 +1,4 @@
-name = "minecraft-server-ping"
+name = "voxelearth-status"
 main = "src/index.ts"
 compatibility_date = "2023-05-21"
 compatibility_flags = ["nodejs_compat"]
